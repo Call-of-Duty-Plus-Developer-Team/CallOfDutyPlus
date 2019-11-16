@@ -1,0 +1,4 @@
+author = godnamedspectr3x &amp; Holofya
+version = 0.0.1
+displayName = Call of Duty+(Terraria)
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*

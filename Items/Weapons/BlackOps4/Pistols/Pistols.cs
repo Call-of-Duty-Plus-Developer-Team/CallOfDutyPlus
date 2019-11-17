@@ -70,7 +70,7 @@ namespace CallOfDutyPlus.Items.Weapons.BlackOps4.Pistols
             item.autoReuse = false;
             item.useAmmo = 97;
             item.shoot = ProjectileID.Bullet;
-            item.shootSpeed = 9.0f;
+            item.shootSpeed = 12.223f;
             item.autoReuse = true;
         }
         public override bool Shoot(Player player, ref Vector2 position, ref float speedX, ref float speedY, ref int type, ref int damage, ref float knockBack)
@@ -110,7 +110,7 @@ namespace CallOfDutyPlus.Items.Weapons.BlackOps4.Pistols
             item.autoReuse = false;
             item.useAmmo = 97;
             item.shoot = ProjectileID.Bullet;
-            item.shootSpeed = 12.4f;
+            item.shootSpeed = 21.2f;
         }
     }
 
@@ -139,7 +139,7 @@ namespace CallOfDutyPlus.Items.Weapons.BlackOps4.Pistols
             item.autoReuse = false;
             item.useAmmo = 97;
             item.shoot = ProjectileID.Bullet;
-            item.shootSpeed = 8.9f;
+            item.shootSpeed = 16.66f;
             item.scale = 0.47f;
         }
         public override bool Shoot(Player player, ref Vector2 position, ref float speedX, ref float speedY, ref int type, ref int damage, ref float knockBack)
